@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    background-color: aqua;
+    height: 50px;
+    padding-top: 10px;
+}
+
+.headerSelect {
+    margin-right: 5px;
+    height: 25px;
+    width: 150px;
+}
+
+.headerInput {
+    margin-right: 5px;
+    height: 25px;
+    width: 150px;
+}
+
+.headerButton {
+    margin-right: 5px;
+    height: 25px;
+}

@@ -1,0 +1,17 @@
+.table {
+    width: 100%;
+    min-height: 100px;
+    background-color: beige;
+}
+
+.clicked {
+    cursor: pointer;
+}
+
+.orderAsk {
+    background: lightgreen;
+}
+
+.orderDesk {
+    background: lightsalmon;
+}
